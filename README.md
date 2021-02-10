@@ -2,7 +2,7 @@
 
 # Welcome to my GitHub! 👾 <img src="https://raw.githubusercontent.com/Tess314/Tess314/master/heart.gif" width="30px">
 
-## Check out my YouTube channel, Techie Tessie!
+## Check out my YouTube Channel, Techie Tessie!
 ### My goal is to make programming education as widespread and accessible as possible
 [<img align="left" alt="YouTube" height="30px" src="https://raw.githubusercontent.com/Tess314/Tess314/master/youtube_logo.png"/>][YouTube]Techie Tessie YouTube Channel
 
