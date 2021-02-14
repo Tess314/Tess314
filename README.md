@@ -1,6 +1,6 @@
 ![Header](https://raw.githubusercontent.com/Tess314/Tess314/master/personal_banner.png "Header")
 
-# Welcome to my GitHub! 👾 <img src="https://raw.githubusercontent.com/Tess314/Tess314/master/heart.gif" width="30px">
+# Welcome to my GitHub! <img src="https://raw.githubusercontent.com/Tess314/Tess314/master/heart.gif" width="30px">
 
 ## Check out my YouTube Channel, Techie Tessie!
 ### My goal is to make programming education as widespread and accessible as possible
