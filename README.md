@@ -2,7 +2,7 @@
 
 # Welcome to my GitHub! <img src="https://raw.githubusercontent.com/Tess314/Tess314/master/heart.gif" width="30px">
 
-### My goal is to make programming education as widespread and accessible as possible
+### My goal is to make programming education widespread and accessible
 
 #### That T-Shirt I'm wearing? I designed it! Click the Redbubble icon to check out my merch
 
