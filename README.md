@@ -6,9 +6,9 @@
 
 #### That T-Shirt I'm wearing? I designed it! Click the icons below to check out my merch
 
-[<img align="left" alt="RedBubble" height="30px" src="https://raw.githubusercontent.com/Techie-Tessie/Techie-Tessie/master/tshirt_logo.png"/>][RedBubble1]RedBubble Merchandise
+[<img align="left" alt="RedBubble" height="30px" src="https://raw.githubusercontent.com/Techie-Tessie/Techie-Tessie/master/tshirt_logo.png"/>][RedBubble1]'Keeping the Code Coming' design
 
-[<img align="left" alt="RedBubble" height="30px" src="https://raw.githubusercontent.com/Techie-Tessie/Techie-Tessie/master/travel_mug_icon.png"/>][RedBubble2]RedBubble Merchandise
+[<img align="left" alt="RedBubble" height="30px" src="https://raw.githubusercontent.com/Techie-Tessie/Techie-Tessie/master/travel_mug_icon.png"/>][RedBubble2]'H(Tea)ML' design
 
 [<img align="left" alt="YouTube" height="30px" src="https://raw.githubusercontent.com/Tess314/Tess314/master/youtube_logo.png"/>][YouTube]Subscribe to my YouTube Channel
 
