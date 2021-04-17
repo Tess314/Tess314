@@ -16,6 +16,8 @@
 
 [<img align="left" alt="LinkedIn" height="30px" src="https://raw.githubusercontent.com/Tess314/Tess314/master/linkedin_logo.png"/>][LinkedIn]Connect with me on LinkedIn
 
+### Some stats:
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tess314&show_icons=true&line_height=27&count_private=true&title_color=8C52FF"/>
 
 <!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tess314&layout=compact&title_color=8C52FF"/>-->
