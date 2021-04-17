@@ -4,9 +4,11 @@
 
 ### My goal is to make programming education widespread and accessible
 
-#### That T-Shirt I'm wearing? I designed it! Click the Redbubble icon to check out my merch
+#### That T-Shirt I'm wearing? I designed it! Click the icons below to check out my merch
 
-[<img align="left" alt="RedBubble" height="30px" src="https://raw.githubusercontent.com/Techie-Tessie/Techie-Tessie/master/redbubble_logo_purple.png"/>][RedBubble]RedBubble Merchandise
+[<img align="left" alt="RedBubble" height="30px" src="https://raw.githubusercontent.com/Techie-Tessie/Techie-Tessie/master/tshirt_logo.png"/>][RedBubble1]RedBubble Merchandise
+
+[<img align="left" alt="RedBubble" height="30px" src="https://raw.githubusercontent.com/Techie-Tessie/Techie-Tessie/master/travel_mug_icon.png"/>][RedBubble2]RedBubble Merchandise
 
 [<img align="left" alt="YouTube" height="30px" src="https://raw.githubusercontent.com/Tess314/Tess314/master/youtube_logo.png"/>][YouTube]Subscribe to my YouTube Channel
 
@@ -18,7 +20,8 @@
 
 <!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tess314&layout=compact&title_color=8C52FF"/>-->
 
-[RedBubble]: https://www.redbubble.com/shop/ap/68986038
+[RedBubble1]: https://www.redbubble.com/shop/ap/68986038
+[RedBubble2]: https://www.redbubble.com/shop/ap/75270266
 [YouTube]: https://www.youtube.com/channel/UCGCR-PjumUZeuMc0zZOIZdA
 [Twitter]: https://twitter.com/TechieTessie
 [LinkedIn]: https://www.linkedin.com/in/tess-watt-4882941b3/
