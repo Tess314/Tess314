@@ -20,7 +20,7 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tess314&show_icons=true&line_height=27&count_private=true&title_color=8C52FF"/>
 
-<!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tess314&layout=compact&title_color=8C52FF"/>-->
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tess314&layout=compact&title_color=8C52FF"/> -->
 
 [RedBubble1]: https://www.redbubble.com/shop/ap/68986038
 [RedBubble2]: https://www.redbubble.com/shop/ap/75270266
