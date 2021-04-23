@@ -25,5 +25,5 @@
 [RedBubble1]: https://www.redbubble.com/shop/ap/68986038
 [RedBubble2]: https://www.redbubble.com/shop/ap/75270266
 [YouTube]: https://www.youtube.com/channel/UCGCR-PjumUZeuMc0zZOIZdA
-[Twitter]: https://twitter.com/TechieTessie
+[Twitter]: https://twitter.com/TessWOfficial
 [LinkedIn]: https://www.linkedin.com/in/tess-watt-4882941b3/
