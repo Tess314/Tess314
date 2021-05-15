@@ -2,6 +2,8 @@
 
 # Welcome to my GitHub! <img src="https://raw.githubusercontent.com/Tess314/Tess314/master/heart.gif" width="30px">
 
+## ☮️ My goal is to make programming education widespread and accessible ☮️
+
 ### Click below to shop for Techie Tessie merchandise!
 
 [<img align="left" alt="RedBubble" height="30px" src="https://raw.githubusercontent.com/Techie-Tessie/Techie-Tessie/master/tshirt_logo.png"/>][RedBubble]Get merch here
