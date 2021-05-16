@@ -10,11 +10,11 @@
 
 ### Connect with me!
 
-[<img align="left" alt="YouTube" height="30px" src="https://raw.githubusercontent.com/Tess314/Tess314/master/youtube_logo.png"/>][YouTube]Subscribe to my YouTube Channel
+[<img align="left" alt="YouTube" height="30px" src="https://raw.githubusercontent.com/Tess314/Tess314/master/youtube_logo.png"/>][YouTube]Subscribe to my channel
 
 [<img align="left" alt="Twitter" height="30px" src="https://raw.githubusercontent.com/Tess314/Tess314/master/twitter_logo.png"/>][Twitter]Follow me on Twitter
 
-[<img align="left" alt="LinkedIn" height="30px" src="https://raw.githubusercontent.com/Tess314/Tess314/master/linkedin_logo.png"/>][LinkedIn]Connect with me on LinkedIn
+[<img align="left" alt="LinkedIn" height="30px" src="https://raw.githubusercontent.com/Tess314/Tess314/master/linkedin_logo.png"/>][LinkedIn]Connect on LinkedIn
 
 ### ...
 ### ...
