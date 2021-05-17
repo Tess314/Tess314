@@ -16,6 +16,8 @@
 
 <!--[<img align="left" alt="LinkedIn" height="30px" src="https://raw.githubusercontent.com/Tess314/Tess314/master/linkedin_logo.png"/>][LinkedIn]Connect-->
 
+<br />
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tess314&show_icons=true&line_height=27&count_private=true&title_color=8C52FF"/>
 
 <img src="https://activity-graph.herokuapp.com/graph?username=Tess314&theme=xcode" alt="Contribution Graph" align="center" />
