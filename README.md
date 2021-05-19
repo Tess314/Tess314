@@ -4,7 +4,7 @@
 
 ## My goal is to make programming education widespread and accessible
 
-### 👇Click for a copy of my Ebook!
+### 👇Click for a copy of my E-book!
 
 [<img align="left" alt="Ebook" height="300px" src="https://raw.githubusercontent.com/Tess314/Tess314/master/cover.png"/>][Ebook]
 
