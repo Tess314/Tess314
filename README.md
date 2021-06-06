@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/Tess314/Tess314/master/gh_banner.gif "Header")
+![Header](https://raw.githubusercontent.com/Tess314/Tess314/master/banner.png "Header")
 
 # Welcome to my GitHub! <img src="https://raw.githubusercontent.com/Tess314/Tess314/master/heart.gif" width="30px">
 
