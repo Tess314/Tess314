@@ -8,6 +8,8 @@
 
 [<img align="left" alt="Ebook" height="300px" src="https://raw.githubusercontent.com/Tess314/Tess314/master/cover.png"/>][Ebook]
 
+
+
 <!--### Connect with me!-->
 
 <!--[<img align="left" alt="YouTube" height="30px" src="https://raw.githubusercontent.com/Tess314/Tess314/master/youtube_logo.png"/>][YouTube]Subscribe-->
@@ -25,7 +27,8 @@
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tess314&layout=compact&title_color=8C52FF"/> -->
 
+------------------------
 [Ebook]: https://gumroad.com/tesswatt
 [YouTube]: https://www.youtube.com/channel/UCGCR-PjumUZeuMc0zZOIZdA
-[Twitter]: https://twitter.com/TessWOfficial
-[LinkedIn]: https://www.linkedin.com/in/tess-watt-4882941b3/
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/TessWOfficial)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/tess-watt-4882941b3/)
