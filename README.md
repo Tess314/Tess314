@@ -29,7 +29,7 @@
 
 ------------------------
 [Ebook]: https://gumroad.com/tesswatt
-[YouTube]: https://www.youtube.com/channel/UCGCR-PjumUZeuMc0zZOIZdA
+[YouTube]: https://www.youtube.com/c/techietessie
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/TessWOfficial)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/tess-watt-4882941b3/)
-[<img src="https://img.shields.io/youtube/channel/subscribers/UCGCR-PjumUZeuMc0zZOIZdA?style=social" />](https://www.youtube.com/channel/UCGCR-PjumUZeuMc0zZOIZdA)
+[<img src="https://img.shields.io/youtube/channel/subscribers/UCGCR-PjumUZeuMc0zZOIZdA?style=social" />](https://www.youtube.com/c/techietessie)
