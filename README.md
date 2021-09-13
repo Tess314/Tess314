@@ -4,7 +4,7 @@
 
 ### 👇Click for a copy of my book!
 
-[<img align="left" alt="Ebook" height="300px" src="https://raw.githubusercontent.com/Tess314/Tess314/master/cover.png"/>][Ebook]
+[<img align="left" alt="Book" height="300px" src="https://raw.githubusercontent.com/Tess314/Tess314/master/cover.png"/>][Book]
 
 <!--### Connect with me!-->
 
@@ -28,5 +28,5 @@
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tess314&layout=compact&title_color=8C52FF"/> -->
 
 ------------------------
-[Ebook]: https://www.amazon.co.uk/dp/B0953V7WMH
+[Book]: https://www.amazon.co.uk/dp/B09FS2TJCZ
 [YouTube]: https://www.youtube.com/c/techietessie
