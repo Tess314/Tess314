@@ -2,7 +2,7 @@
 
 ## My goal is to make programming education widespread and accessible
 
-### 👇Click for a copy of my book!
+### 👇E-Book only £1!
 
 [<img align="left" alt="Book" height="300px" src="https://raw.githubusercontent.com/Tess314/Tess314/master/cover.png"/>][Book]
 
@@ -28,5 +28,5 @@
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tess314&layout=compact&title_color=8C52FF"/> -->
 
 ------------------------
-[Book]: https://www.amazon.co.uk/dp/B09FS2TJCZ
+[Book]: https://app.gumroad.com/tesswatt
 [YouTube]: https://www.youtube.com/c/techietessie
