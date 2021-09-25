@@ -2,7 +2,7 @@
 
 ## My goal is to make programming education widespread and accessible
 
-### 👇E-Book only £1!
+### 👇Click for my E-Book!
 
 [<img align="left" alt="Book" height="300px" src="https://raw.githubusercontent.com/Tess314/Tess314/master/cover.png"/>][Book]
 
