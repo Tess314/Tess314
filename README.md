@@ -1,4 +1,4 @@
-# Welcome to my GitHub! <img src="https://raw.githubusercontent.com/Tess314/Tess314/master/heart.gif" width="30px">
+# <img src="https://raw.githubusercontent.com/Tess314/Tess314/master/heart.gif" width="30px"> Welcome to my GitHub! <img src="https://raw.githubusercontent.com/Tess314/Tess314/master/heart.gif" width="30px">
 
 ## Making programming education widespread and accessible ➜ [<img src="https://img.shields.io/youtube/channel/subscribers/UCGCR-PjumUZeuMc0zZOIZdA?style=social" />](https://www.youtube.com/c/techietessie)
 
