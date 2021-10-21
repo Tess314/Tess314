@@ -2,10 +2,6 @@
 
 ## Making programming education widespread and accessible ➜ [<img src="https://img.shields.io/youtube/channel/subscribers/UCGCR-PjumUZeuMc0zZOIZdA?style=social" />](https://www.youtube.com/c/techietessie)
 
-### 👇Click for my E-Book!
-
-[<img align="left" alt="Book" height="300px" src="https://raw.githubusercontent.com/Tess314/Tess314/master/cover.png"/>][Book]
-
 <!--### Connect with me!-->
 
 <!--[<img align="left" alt="YouTube" height="30px" src="https://raw.githubusercontent.com/Tess314/Tess314/master/youtube_logo.png"/>][YouTube]Subscribe-->
