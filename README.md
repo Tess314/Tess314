@@ -9,6 +9,6 @@
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/TessWOfficial)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/tess-watt-4882941b3/)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />](https://www.instagram.com/techie_tessie/)
-[<img src="https://img.shields.io/badge/my book-%2551530.svg?style=for-the-badge&logo=amazon&logoColor=white" />](https://www.amazon.co.uk/dp/B09FS2TJCZ)
+[<img src="https://img.shields.io/badge/my book-%2551530.svg?style=for-the-badge&logo=amazon&logoColor=white" />](https://iasti.carrd.co/)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tess314&show_icons=true&line_height=27&count_private=true&title_color=8C52FF"/>
