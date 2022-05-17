@@ -11,5 +11,3 @@
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />](https://www.instagram.com/techie_tessie/)
 [<img src = "https://img.shields.io/badge/my book-c14438?&style=for-the-badge&logo=internet&logoColor=white" />](https://www.amazon.co.uk/dp/B09FS2TJCZ)
 </a>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tess314&show_icons=true&line_height=27&count_private=true&title_color=8C52FF"/>
