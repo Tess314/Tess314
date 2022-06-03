@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/Tess314/Tess314/master/heart.gif" width="30px"> Welcome to my GitHub! <img src="https://raw.githubusercontent.com/Tess314/Tess314/master/heart.gif" width="30px">
+# Welcome to my GitHub!
 
 ## Making programming education widespread and accessible
 
