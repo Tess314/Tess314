@@ -1,4 +1,18 @@
-# Welcome to my GitHub! 💜
+# Welcome to my GitHub! 
+
+About me:
+<br />
+• Founder of Techie Tessie 💜
+<br />
+&ensp; - I help international students learn to code 🌍
+<br />
+• PhD Student in tinyML 📚
+<br />
+&ensp; - My research combines constrained devices, machine learning, and robotics 🤖
+<br />
+• Graduated from BEng (Hons) Computing in 2023 🎓
+<br />
+&ensp; - Undergraduate research focus was machine translation 📝
 
 <br />
 <br />
