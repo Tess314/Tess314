@@ -2,10 +2,6 @@
 
 About me:
 <br />
-• Founder of Techie Tessie 💜
-<br />
-&ensp; - I help international students learn to code 🌍
-<br />
 • PhD Student in tinyML 📚
 <br />
 &ensp; - My research combines constrained devices, machine learning, and robotics 🤖
