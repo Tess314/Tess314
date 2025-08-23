@@ -3,6 +3,7 @@
 About me:
 <br />
 • PhD Student in tinyML for Dermatology 📚
+&ensp; - Making skin lesion diagnosis accessible in remote areas 🌍
 <br />
 • Graduated from BEng (Hons) Computing in 2023 🎓
 <br />
