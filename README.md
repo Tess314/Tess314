@@ -2,7 +2,7 @@
 
 About me:
 <br />
-• PhD Student in tinyML 📚
+• PhD Student in tinyML for Dermatology 📚
 <br />
 • Graduated from BEng (Hons) Computing in 2023 🎓
 <br />
