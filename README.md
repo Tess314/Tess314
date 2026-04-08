@@ -2,6 +2,7 @@
 
 My name is Tess Watt and I am a PhD Student at Heriot-Watt University.
 <br />
+<br />
 • PhD Student in tinyML for Dermatology 📚
 <br />
 &ensp; - Making skin lesion diagnosis accessible in remote areas 🌍
